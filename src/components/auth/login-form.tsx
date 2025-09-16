@@ -50,7 +50,7 @@ export function LoginForm() {
   return (
     <AuthCard
       cardTitle="Welcome back"
-      cardDescription="Sign in to access your account"
+      cardDescription="Fill in your credentials to access your account"
       footerHref="/signup"
       footerLabel="Don't have an account? Sign up"
     >

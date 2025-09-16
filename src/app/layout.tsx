@@ -3,7 +3,7 @@ import { Toaster } from "@/components/ui/toaster"
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Account Portal',
+  title: 'Career Path',
   description: 'Login or sign up for your account',
 };
 
